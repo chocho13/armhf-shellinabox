@@ -26,4 +26,4 @@ It is probably a good idea to add `--restart=always` so the container restarts i
 
 Feedbacks
 
-Having more issues? [Report a bug on GitHub.](https://github.com/chocho13/armhf-samba/issues)
+Having more issues? [Report a bug on GitHub.](https://github.com/chocho13/armhf-shellinabox/issues)
